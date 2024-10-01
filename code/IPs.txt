@@ -1,0 +1,5 @@
+web2 Private IP 10.0.3.169 
+web1 Private IP 10.0.1.66 
+proxy_1 Public IP 18.207.103.200 
+proxy_2 Public IP 3.87.195.0 
+Public DNS public-nlb-b4e120ec4cc8bbca.elb.us-east-1.amazonaws.com 
