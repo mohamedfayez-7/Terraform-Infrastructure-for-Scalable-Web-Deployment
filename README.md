@@ -51,11 +51,8 @@ The infrastructure is deployed across two **Availability Zones** within a **VPC*
 **Description:**
 Designed and deployed a high-availability web infrastructure on AWS using **Terraform**. The project provisions a **VPC with public and private subnets** across two availability zones. **Nginx proxy servers** handle incoming traffic, forwarding requests to **Apache web servers** hosted in private subnets. An **Application Load Balancer (ALB)** ensures fault tolerance. Terraform manages the infrastructure with state locking stored in an **S3 bucket** for reliability. This setup enhances security, scalability, and automation in cloud environments.
 
-## Contributors
-- [Your Name](https://linkedin.com/in/yourprofile)
 
-## License
-This project is licensed under the MIT License.
+
 
 
 
