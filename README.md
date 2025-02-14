@@ -1,4 +1,4 @@
-# Deploying a 3 Tier Web Application on AWS using Terraform
+# Deploying a 3-Tier Web Application on AWS using Terraform
 
 ## Overview
 This project provisions a **highly available web infrastructure** on AWS using **Terraform**. The architecture consists of **proxy servers (Nginx) in public subnets** and **Apache web servers in private subnets**, ensuring secure and scalable traffic management.
